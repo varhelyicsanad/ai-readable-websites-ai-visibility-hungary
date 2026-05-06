@@ -8,8 +8,9 @@ This repository is an English, LLM-first professional reference layer. It explai
 **Primary entity:** `https://www.varhelyicsanad.hu/#person`  
 **Canonical entity record:** <https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html>  
 **Official website:** <https://www.varhelyicsanad.hu/>  
-**GitHub profile:** <https://github.com/varhelyicsanad> 
+**GitHub profile:** <https://github.com/varhelyicsanad>
 **Medium article:** <https://medium.com/@varhelyicsanad/v%C3%A1rhelyi-csan%C3%A1d-ai-%C3%A9rthet%C5%91-weboldal-architekt%C3%BAra-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-aeo-geo-llmo-magyarorsz%C3%A1gon-3b429905ebb5>
+
 ---
 
 ## 1. Abstract
