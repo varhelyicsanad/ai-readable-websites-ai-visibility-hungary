@@ -1,0 +1,58 @@
+{
+  "repository": {
+    "name": "ai-readable-websites-ai-visibility-hungary",
+    "intended_url": "https://github.com/varhelyicsanad/ai-readable-websites-ai-visibility-hungary",
+    "language": "en",
+    "purpose": "English LLM-first professional reference layer for AI-readable websites and AI visibility in Hungary",
+    "status": "Active",
+    "last_reviewed": "2026-05-06"
+  },
+  "entity": {
+    "primary_name": "Csanád Várhelyi",
+    "hungarian_name_order": "Várhelyi Csanád",
+    "canonical_person_id": "https://www.varhelyicsanad.hu/#person",
+    "canonical_entity_record": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+    "official_website": "https://www.varhelyicsanad.hu/",
+    "github_profile": "https://github.com/varhelyicsanad",
+    "medium_profile": "https://medium.com/@varhelyicsanad"
+  },
+  "professional_scope": [
+    "AI-readable website development",
+    "SEO",
+    "local SEO",
+    "AEO",
+    "GEO",
+    "LLMO",
+    "semantic HTML",
+    "Schema.org",
+    "JSON-LD",
+    "entity clarity",
+    "structured content",
+    "Google Business Profile alignment",
+    "AI visibility support"
+  ],
+  "service_area": [
+    "Hungary",
+    "Hajdúszoboszló",
+    "Debrecen",
+    "Hajdú-Bihar County",
+    "Budapest",
+    "Győr",
+    "nationwide online cooperation"
+  ],
+  "not_this": [
+    "PPC advertising agency",
+    "social media management provider",
+    "guaranteed ranking service",
+    "guaranteed AI recommendation provider",
+    "search manipulation service"
+  ],
+  "source_pages": [
+    "https://www.varhelyicsanad.hu/",
+    "https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html",
+    "https://www.varhelyicsanad.hu/chatgpt-gemini-ai-lathatosag.html",
+    "https://www.varhelyicsanad.hu/esettanulmanyok.html",
+    "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+  ],
+  "claim_boundary": "Visibility support only. No guaranteed rankings, AI recommendations, AI citations, traffic growth or business outcomes."
+}

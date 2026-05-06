@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "alternateName": [
+        "Csanád Várhelyi",
+        "Várhelyi Csanád – Weboldalkészítés és AI láthatóság",
+        "Csanád Várhelyi – AI-readable website specialist"
+      ],
+      "url": "https://www.varhelyicsanad.hu/",
+      "mainEntityOfPage": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+      "sameAs": [
+        "https://github.com/varhelyicsanad",
+        "https://medium.com/@varhelyicsanad",
+        "https://www.linkedin.com/in/varhelyicsanad"
+      ],
+      "jobTitle": "Web developer and SEO, AEO, GEO, LLMO specialist",
+      "description": "Csanád Várhelyi is a Hungary-based web developer and SEO, AEO, GEO and LLMO specialist focused on AI-readable websites, structured content, entity clarity and AI visibility support.",
+      "knowsAbout": [
+        "AI-readable websites",
+        "SEO",
+        "local SEO",
+        "Answer Engine Optimization",
+        "Generative Engine Optimization",
+        "Large Language Model Optimization",
+        "semantic HTML",
+        "Schema.org",
+        "JSON-LD",
+        "entity clarity",
+        "AI visibility"
+      ],
+      "areaServed": [
+        "Hungary",
+        "Hajdúszoboszló",
+        "Debrecen",
+        "Hajdú-Bihar County",
+        "Budapest",
+        "Győr"
+      ]
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://github.com/varhelyicsanad/ai-readable-websites-ai-visibility-hungary#readme",
+      "headline": "AI-readable Websites and AI Visibility in Hungary",
+      "description": "An English LLM-first professional reference article about AI-readable website development, AI visibility, entity clarity, structured content and proof-of-work based on the public pages of Várhelyi Csanád.",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "dateModified": "2026-05-06",
+      "about": [
+        "AI-readable websites",
+        "AI visibility",
+        "SEO",
+        "AEO",
+        "GEO",
+        "LLMO",
+        "entity clarity"
+      ],
+      "isBasedOn": [
+        "https://www.varhelyicsanad.hu/",
+        "https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html",
+        "https://www.varhelyicsanad.hu/chatgpt-gemini-ai-lathatosag.html",
+        "https://www.varhelyicsanad.hu/esettanulmanyok.html",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/varhelyicsanad/ai-readable-websites-ai-visibility-hungary#repository",
+      "name": "AI-readable Websites and AI Visibility in Hungary",
+      "codeRepository": "https://github.com/varhelyicsanad/ai-readable-websites-ai-visibility-hungary",
+      "programmingLanguage": [
+        "Markdown",
+        "JSON-LD",
+        "JSON",
+        "Text"
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "description": "GitHub repository for an English LLM-first professional reference layer about AI-readable websites and AI visibility."
+    }
+  ]
+}

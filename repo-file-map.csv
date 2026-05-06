@@ -1,0 +1,9 @@
+file,purpose,language,machine_role
+README.md,Main English professional article and LLM-first reference page,en,primary_human_and_machine_reference
+llms.txt,Short LLM guidance file for crawlers and AI-assisted retrieval,en,llm_context
+source-of-truth.md,Canonical source list and preferred interpretation,en,source_of_truth
+machine-context.json,Compact machine-readable entity and repository context,en,machine_context
+entity.jsonld,"Schema.org JSON-LD graph for person, article and repository",en,structured_data
+repo-file-map.csv,Repository file inventory,en,file_inventory
+LICENSE.md,Rights statement,en,rights_statement
+.nojekyll,GitHub Pages helper file to avoid Jekyll processing,n/a,deployment_helper
