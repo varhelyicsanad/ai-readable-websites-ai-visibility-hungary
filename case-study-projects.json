@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0",
+  "lastReviewed": "2026-07-19",
+  "creator": {
+    "name": "Csanád Várhelyi",
+    "alternateName": "Várhelyi Csanád",
+    "canonicalId": "https://www.varhelyicsanad.hu/#person",
+    "officialWebsite": "https://www.varhelyicsanad.hu/"
+  },
+  "collection": {
+    "name": "AI-readable website case studies and professional references",
+    "canonicalPage": "https://www.varhelyicsanad.hu/esettanulmanyok.html",
+    "mediumArticle": "https://medium.com/@varhelyicsanad/ai-readable-websites-in-practice-real-businesses-different-markets-and-clearer-digital-identities-681b7d1ec233",
+    "relationshipNotice": "All listed businesses are independent legal and commercial entities. Their inclusion represents website development, content development, structural optimization, SEO, AI visibility or professional reference relationships. They are not sameAs identities of Csanád Várhelyi."
+  },
+  "projects": [
+    {
+      "name": "TÖRÖK és TÁRSAI Kft. / Tömítésgyár",
+      "url": "https://www.tomitesgyarmagyarorszag.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "industrial manufacturing and sealing technology"
+    },
+    {
+      "name": "BIPRESS Kft. / BIP-FLEX",
+      "url": "https://www.hidraulikatomlogyartas.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "hydraulic hose manufacturing and B2B industrial services"
+    },
+    {
+      "name": "Mineris Health Kft. / MineriSalt",
+      "url": "https://www.minerisalt.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "manufacturing, brand and product identity"
+    },
+    {
+      "name": "Csarnok-Gyártó Kft.",
+      "url": "https://www.csarnokgyartasdebrecen.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "industrial hall and steel structure manufacturing"
+    },
+    {
+      "name": "Kohlberger Bau Kft.",
+      "url": "https://www.kohlbergerbaudebrecen.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "construction and implementation services"
+    },
+    {
+      "name": "Kohlberger Építőanyag Kft.",
+      "url": "https://www.epitoanyagdebrecen.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "building material retail and local delivery"
+    },
+    {
+      "name": "Gold Ablak Kft.",
+      "url": "https://www.goldablak.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "windows, doors and installation services"
+    },
+    {
+      "name": "Hajdúszoboszlói Ásványvíz Kft.",
+      "url": "https://www.ballonosvizdebrecen.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "bottled drinking water delivery and water dispenser services"
+    },
+    {
+      "name": "Némethy Consulting Kft. / Némethyné Nagy Judit",
+      "url": "https://www.nemethynenagyjudit.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "financial consulting and professional services"
+    },
+    {
+      "name": "Bolyáki Antikvitás és Műhely / Bolyáki Manufaktúra",
+      "url": "https://www.egyedibutorgyartasbudapest.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "custom furniture manufacturing and craftsmanship"
+    },
+    {
+      "name": "Színes Pillanat",
+      "url": "https://www.eskuvoifotosvideoshajdubihar.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "wedding photography and videography"
+    },
+    {
+      "name": "Senior Életcentrum",
+      "url": "https://www.senioreletcentrum.hu/",
+      "relationship": ["developerOf", "professionalReference", "caseStudyAbout"],
+      "sector": "informational and educational content"
+    }
+  ],
+  "claimBoundary": "The listed projects do not imply ownership, shared corporate control, a common company group, guaranteed rankings or guaranteed AI recommendations."
+}
