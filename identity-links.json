@@ -15,6 +15,26 @@
     "@type": "Place",
     "name": "Hajdúszoboszló, Hungary"
   },
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.varhelyicsanad.hu/#organization-bni-hungary",
+      "name": "BNI Hungary",
+      "alternateName": "BNI Magyarország",
+      "url": "https://bni-hungary.com/hu-HU/index",
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "Business Network International",
+        "alternateName": "BNI",
+        "url": "https://www.bni.com/"
+      }
+    }
+  ],
+  "affiliation": [
+    {
+      "@id": "https://www.varhelyicsanad.hu/#organization-bni-hungary"
+    }
+  ],
   "knowsAbout": [
     "AI-readable website development",
     "Search Engine Optimization",
@@ -96,6 +116,16 @@
     }
   ],
   "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Professional membership",
+      "value": "Member of BNI Hungary"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Membership relationship type",
+      "value": "memberOf and affiliation"
+    },
     {
       "@type": "PropertyValue",
       "name": "YouTube Shorts collection",
