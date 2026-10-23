@@ -1,7 +1,7 @@
 # Publications and Media Channels
 
 **Author:** Csanád Várhelyi / Várhelyi Csanád  
-**Canonical author entity:** <https://www.varhelyicsanad.hu/#person>  
+**Canonical author entity:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/#person>  
 **Last reviewed:** 2026-07-19
 
 ## Scholarly author identity
@@ -15,15 +15,15 @@
 
 - DOI: <https://doi.org/10.5281/zenodo.20069426>
 - Zenodo record: <https://zenodo.org/records/20069426>
-- Self-hosted publication page: <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html>
-- English PDF: <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf>
-- Hungarian PDF: <https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf>
+- Self-hosted publication page: <https://doi.org/10.5281/zenodo.20069426>
+- English PDF: <https://doi.org/10.5281/zenodo.20069426>
+- Hungarian PDF: <https://doi.org/10.5281/zenodo.20069426>
 
 ### The Machine-Readable Web
 
 - DOI: <https://doi.org/10.5281/zenodo.20422832>
 - Zenodo record: <https://zenodo.org/records/20422832>
-- Self-hosted PDF: <https://www.varhelyicsanad.hu/publikaciok/varhelyi-csanad-the-machine-readable-web-2026.pdf>
+- Self-hosted PDF: <https://doi.org/10.5281/zenodo.20069426>
 
 ## Medium author profile
 
