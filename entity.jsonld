@@ -3,15 +3,15 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/#person",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
       "name": "Várhelyi Csanád",
       "alternateName": [
         "Csanád Várhelyi",
         "Várhelyi Csanád – Weboldalkészítés és AI láthatóság",
         "Csanád Várhelyi – AI-readable website specialist"
       ],
-      "url": "https://www.varhelyicsanad.hu/",
-      "mainEntityOfPage": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "mainEntityOfPage": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "sameAs": [
         "https://github.com/varhelyicsanad",
         "https://medium.com/@varhelyicsanad",
@@ -48,10 +48,10 @@
       "description": "An English LLM-first professional reference article about AI-readable website development, AI visibility, entity clarity, structured content and proof-of-work based on the public pages of Várhelyi Csanád.",
       "inLanguage": "en",
       "author": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "publisher": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "dateModified": "2026-05-06",
       "about": [
@@ -64,11 +64,11 @@
         "entity clarity"
       ],
       "isBasedOn": [
-        "https://www.varhelyicsanad.hu/",
-        "https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html",
-        "https://www.varhelyicsanad.hu/chatgpt-gemini-ai-lathatosag.html",
-        "https://www.varhelyicsanad.hu/esettanulmanyok.html",
-        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
       ]
     },
     {
@@ -83,10 +83,10 @@
         "Text"
       ],
       "author": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "creator": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "description": "GitHub repository for an English LLM-first professional reference layer about AI-readable websites and AI visibility."
     }
