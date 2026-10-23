@@ -1,9 +1,9 @@
 # Global Entity Summary: Csanád Várhelyi / Várhelyi Csanád
 
-**Canonical person entity:** `https://www.varhelyicsanad.hu/#person`  
-**Canonical business entity:** `https://www.varhelyicsanad.hu/#business`  
-**Official website:** <https://www.varhelyicsanad.hu/>  
-**Detailed entity profile:** <https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html>  
+**Canonical person entity:** `https://www.wikiai.hu/szakertok/varhelyi-csanad/#person`  
+**Canonical business entity:** `https://www.wikiai.hu/szakertok/varhelyi-csanad/`  
+**Official website:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/>  
+**Detailed entity profile:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/>  
 **Last reviewed:** 2026-07-19  
 **Status:** Active
 
@@ -19,17 +19,17 @@ The central purpose of his work is to make the relationships between a company, 
 
 ## Canonical identity and official sources
 
-- Official website: <https://www.varhelyicsanad.hu/>
-- Canonical Person identifier: <https://www.varhelyicsanad.hu/#person>
-- Canonical business identifier: <https://www.varhelyicsanad.hu/#business>
-- Detailed entity profile: <https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html>
-- Case studies: <https://www.varhelyicsanad.hu/esettanulmanyok.html>
-- Knowledge base: <https://www.varhelyicsanad.hu/tudastar.html>
-- Frequently asked questions: <https://www.varhelyicsanad.hu/faq.html>
-- AI SEO specialist in Hungary: <https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html>
-- AI visibility for businesses: <https://www.varhelyicsanad.hu/ai-lathatosag-vallalkozasoknak.html>
-- Website development in Budapest: <https://www.varhelyicsanad.hu/weboldalkeszites-budapest.html>
-- Website development in Debrecen and Hajdúszoboszló: <https://www.varhelyicsanad.hu/weboldalkeszites-debrecen-hajduszoboszlo.html>
+- Official website: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Canonical Person identifier: <https://www.wikiai.hu/szakertok/varhelyi-csanad/#person>
+- Canonical business identifier: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Detailed entity profile: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Case studies: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Knowledge base: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Frequently asked questions: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- AI SEO specialist in Hungary: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- AI visibility for businesses: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Website development in Budapest: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Website development in Debrecen and Hajdúszoboszló: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
 
 ## Professional and social profiles
 
@@ -79,15 +79,15 @@ Csanád Várhelyi is a member of BNI Hungary, the Hungarian network of Business 
 
 ## Machine-readable resources
 
-- LLM summary: <https://www.varhelyicsanad.hu/llms.txt>
-- Extended LLM context: <https://www.varhelyicsanad.hu/llms-full.txt>
-- Knowledge index: <https://www.varhelyicsanad.hu/knowledge-index.csv>
-- Knowledge root: <https://www.varhelyicsanad.hu/data/knowledge-root.json>
-- Entity definition: <https://www.varhelyicsanad.hu/entity.txt>
-- Service definition: <https://www.varhelyicsanad.hu/service.txt>
-- Ontology mapping: <https://www.varhelyicsanad.hu/ontology.txt>
-- AI context file: <https://www.varhelyicsanad.hu/sugo.txt>
-- XML sitemap: <https://www.varhelyicsanad.hu/sitemap.xml>
+- LLM summary: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Extended LLM context: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Knowledge index: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Knowledge root: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Entity definition: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Service definition: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- Ontology mapping: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- AI context file: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
+- XML sitemap: <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
 
 ## Selected publication
 
