@@ -10,9 +10,9 @@
   "entity": {
     "primary_name": "Csanád Várhelyi",
     "hungarian_name_order": "Várhelyi Csanád",
-    "canonical_person_id": "https://www.varhelyicsanad.hu/#person",
-    "canonical_entity_record": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
-    "official_website": "https://www.varhelyicsanad.hu/",
+    "canonical_person_id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
+    "canonical_entity_record": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "official_website": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
     "github_profile": "https://github.com/varhelyicsanad",
     "medium_profile": "https://medium.com/@varhelyicsanad"
   },
@@ -48,11 +48,11 @@
     "search manipulation service"
   ],
   "source_pages": [
-    "https://www.varhelyicsanad.hu/",
-    "https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html",
-    "https://www.varhelyicsanad.hu/chatgpt-gemini-ai-lathatosag.html",
-    "https://www.varhelyicsanad.hu/esettanulmanyok.html",
-    "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
   ],
   "claim_boundary": "Visibility support only. No guaranteed rankings, AI recommendations, AI citations, traffic growth or business outcomes."
 }
