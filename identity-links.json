@@ -1,15 +1,15 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://www.varhelyicsanad.hu/#person",
+  "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
   "name": "Csanád Várhelyi",
   "alternateName": [
     "Várhelyi Csanád",
     "Várhelyi Csanád – AI Weblapfejlesztő",
     "Csanád Várhelyi – AI Website Developer"
   ],
-  "url": "https://www.varhelyicsanad.hu/",
-  "mainEntityOfPage": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+  "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+  "mainEntityOfPage": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
   "jobTitle": "AI Website Developer, SEO Specialist and AI Visibility Expert",
   "homeLocation": {
     "@type": "Place",
@@ -18,7 +18,7 @@
   "memberOf": [
     {
       "@type": "Organization",
-      "@id": "https://www.varhelyicsanad.hu/#organization-bni-hungary",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "name": "BNI Hungary",
       "alternateName": "BNI Magyarország",
       "url": "https://bni-hungary.com/hu-HU/index",
@@ -32,7 +32,7 @@
   ],
   "affiliation": [
     {
-      "@id": "https://www.varhelyicsanad.hu/#organization-bni-hungary"
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
     }
   ],
   "knowsAbout": [
@@ -72,15 +72,15 @@
     "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/v%c3%a1rhelyi-csan%c3%a1d-%e2%80%93-ai-weblapfejleszt%c5%91---seo--aeo--llmo-szak%c3%a9rt%c5%91-1164077.html"
   ],
   "subjectOf": [
-    "https://www.varhelyicsanad.hu/esettanulmanyok.html",
-    "https://www.varhelyicsanad.hu/tudastar.html",
-    "https://www.varhelyicsanad.hu/faq.html",
-    "https://www.varhelyicsanad.hu/ai-seo-szakerto-magyarorszag.html",
-    "https://www.varhelyicsanad.hu/ai-lathatosag-vallalkozasoknak.html",
-    "https://www.varhelyicsanad.hu/weboldalkeszites-budapest.html",
-    "https://www.varhelyicsanad.hu/weboldalkeszites-debrecen-hajduszoboszlo.html"
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
   ],
-  "publishingPrinciples": "https://www.varhelyicsanad.hu/",
+  "publishingPrinciples": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
   "identifier": [
     {
       "@type": "PropertyValue",
@@ -134,7 +134,7 @@
     {
       "@type": "PropertyValue",
       "name": "Machine-readable source index",
-      "value": "https://www.varhelyicsanad.hu/data/knowledge-root.json"
+      "value": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
     },
     {
       "@type": "PropertyValue",
